@@ -1,1 +1,1 @@
-Scratch repo for research and such.
+Scratch repo for research, experimentation, and such.
